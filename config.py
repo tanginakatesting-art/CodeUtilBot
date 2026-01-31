@@ -1,8 +1,8 @@
 #Copyright @ISmartCoder
 #Updates Channel @abirxdhackz
-API_ID = 15xxxxx
-API_HASH = 'e04ab312a57ex'
-BOT_TOKEN = 'xxx:xxx-c8zhgjm8G3YbOM8A'
+API_ID = 23209699
+API_HASH = '914c6b8aa854364d0f0a7885f53bf595'
+BOT_TOKEN = '8430936619:AAFpWyZtMU2zCowcusjwght1JI9iB07XyBo'
 UPDATE_CHANNEL_URL = 't.me/abirxdhackz'
 
 COMMAND_PREFIXES = ['/', '!', '.', ',', '$', '#']
