@@ -16,7 +16,7 @@ async def callback_handler(event):
             "**Name:** Code Util ⚙️\n"
             "**Version:** v2.0 (Beta) 🛠\n\n"
             "**Development Team:**\n"
-            "• Creator: [Abir Arafat Chawdhury 🇧🇩](https://t.me/ISmartCoder)\n\n"
+            "• Creator: [Extensively🇵🇭](https://t.me/extensivelyy)\n\n"
             "**Technical Stack:**\n"
             "• Language: Python 🐍\n"
             "• Libraries: Telethon 📚\n"
